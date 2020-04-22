@@ -8,6 +8,7 @@ function Header() {
   return (
     //wrapper html5 header element
     <header>
+        make logo hyperlink
         <img src={logo} alt="company logo"/>
     
         <nav>

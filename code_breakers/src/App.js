@@ -3,6 +3,8 @@ import React from 'react';
 // components
 import Header from './components/header_component/header';
 import Footer from './components/footer_component/footer';
+import Homepage from './components/pages/home_page';
+
 
 function App() {
   return (
@@ -11,6 +13,11 @@ function App() {
     <div className="App"> 
 
       <Header / >
+
+      <Homepage / >
+      
+      <Footer / >
+
       
     </div>
   );

@@ -8,11 +8,13 @@ function Footer() {
   return (
     //wrapper html5 footer element
     <footer>
+        make logo hyperlink
 
+        <img src={logo} alt="company logo"/>
 
 
     </footer>
-  )
+  );
 }
 
 export default Footer;
