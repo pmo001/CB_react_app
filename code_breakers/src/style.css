@@ -1,0 +1,37 @@
+footer {
+    display: block;
+    width: 100%;
+    height: auto;
+    background: #36485E;
+    z-index: 0;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
+    float: right;
+    transform: rotate(180deg); /* part1of2 of reversing order */
+}
+
+ul > li {
+    transform: rotate(-180deg); /* part2of2 of reversing order */
+}
+
+li {
+    float: right;
+}
+
+li a {
+    color: black;
+    padding: 13px 20px;
+}
+
+
+footer > img {
+    width: 253px;
+    height: 72px;
+    position: relative;
+    z-index: 100;
+    float: left;
+}
+
