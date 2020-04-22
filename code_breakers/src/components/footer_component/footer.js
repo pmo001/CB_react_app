@@ -1,7 +1,7 @@
 import React from 'react';
 //must import this footer.js to App.js
 
-import logo from "../../images/mainLogo.png";
+import logo from "../../images/logo_footer.png";
 
 //       v must begin w/ capital letter
 function Footer() {
