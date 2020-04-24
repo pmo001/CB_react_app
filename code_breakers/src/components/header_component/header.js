@@ -1,6 +1,7 @@
 import React from 'react';
 //must import this header.js to App.js
 
+//         component;src          
 import logo from "../../images/mainLogo.png";
 
 //       v must begin w/ capital letter
