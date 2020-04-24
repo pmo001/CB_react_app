@@ -10,9 +10,10 @@ function Header() {
     //wrapper html5 header element
     <header>
         
-        <img src={logo} width="253px" height="72px"  alt="company logo"/>
-        
-        make logo hyperlink
+        <a href="#">
+            <img src={logo} width="253px" height="72px"  alt="company logo"/>
+        </a>
+
         
         <nav>
             <ul>
