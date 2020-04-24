@@ -10,7 +10,7 @@ function Header() {
     //wrapper html5 header element
     <header>
         
-        <a href="#">
+        <a href="home">
             <img src={logo} width="253px" height="72px"  alt="company logo"/>
         </a>
 
@@ -18,19 +18,19 @@ function Header() {
         <nav>
             <ul>
                 <li>
-                    <a href="#">ABOUT US</a>
+                    <a href="About_Us_Page">ABOUT US</a>
                 </li>
                 <li>
-                    <a href="#">REVIEWS</a>
+                    <a href="Reviews">REVIEWS</a>
                 </li>
                 <li>
-                    <a href="#">FAQ</a>
+                    <a href="FAQ">FAQ</a>
                 </li>
                 <li>
-                    <a href="#">CONTACT US</a>
+                    <a href="Contact_Us_Page">CONTACT US</a>
                 </li>
                 <li>
-                    <a href="#">APPLY NOW</a>
+                    <a href="Apply_Now_Page">APPLY NOW</a>
                 </li>
             </ul>
         </nav>

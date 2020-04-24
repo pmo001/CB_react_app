@@ -9,7 +9,7 @@ function Footer() {
     //wrapper html5 footer element
     <footer>
 
-        <a href="#">
+        <a href="home">
           <img src={logo} alt="company logo"/>
         </a>
 
