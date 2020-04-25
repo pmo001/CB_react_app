@@ -3,6 +3,7 @@ import React from 'react';
 
 import body1 from '../../images/body1.png';
 import consultation from '../../images/consultation.png';
+import learnMore from '../../images/learnMore.png';
 
 //       v must begin w/ capital letter
 function Homepage() {
@@ -35,6 +36,12 @@ function Homepage() {
           {"\n"} {"\n"}
 
         </p1>
+
+        <a href="learn_more_page">
+          <img src={learnMore} alt="learn more button" />
+        </a>
+
+      
       </center>
 
 

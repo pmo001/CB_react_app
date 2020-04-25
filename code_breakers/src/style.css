@@ -21,7 +21,9 @@ li a {
     padding: 20px 20px;
 }
 
-
+#apply_now {
+    background-color: red;
+}
 
 
 /* setting body1 as background so consultation button can be overlayed */

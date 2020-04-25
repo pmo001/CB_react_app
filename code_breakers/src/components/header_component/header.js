@@ -29,7 +29,7 @@ function Header() {
                 <li>
                     <a href="Contact_Us_Page">CONTACT US</a>
                 </li>
-                <li>
+                <li id="apply_now">
                     <a href="Apply_Now_Page">APPLY NOW</a>
                 </li>
             </ul>
