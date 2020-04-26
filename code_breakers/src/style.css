@@ -45,6 +45,22 @@ img[alt*="consultation"] {
     right: 545px;
 }
 
+img[alt="graduates"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* making 3 columns */
+.column {
+    width: 33.33%;
+}
+
+div#results.column {
+    color: blue;
+    font-size: x-large;
+    font-weight: 600;
+}
+
 /* to center class="center" */
 .center {
     display: block;
@@ -58,6 +74,11 @@ h1, p1 {
     margin-top: 100px;
     margin-bottom: 100px;
     white-space: break-spaces;
+}
+
+#small_margin {
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 #padding2 {

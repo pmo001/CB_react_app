@@ -18,7 +18,7 @@ function Header() {
         <nav>
             <ul>
                 <li>
-                    <a href="About_Us_Page">ABOUT US</a>
+                    <a href="About_Us_Page" >ABOUT US</a>
                 </li>
                 <li>
                     <a href="Reviews">REVIEWS</a>
