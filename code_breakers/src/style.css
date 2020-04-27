@@ -141,10 +141,18 @@ footer {
     position: absolute;
 }
 
-
 footer > img {
     width: 253px;
     height: 72px;
     position: absolute;
 }
-/* float: left; */
+
+div.scroll {
+    overflow-y: scroll;
+    max-height: 500px;
+} 
+
+div.scroll > img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
