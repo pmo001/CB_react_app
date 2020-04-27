@@ -22,7 +22,11 @@ function Homepage6() {
         <text2> {"\n"} Based on </text2>
         <text> 
           <a href="reviews">
-            21 reviews 
+            <u style={{color: "black"}}>
+            <span style={{color: "black"}}>
+              21 reviews 
+            </span>
+            </u>
           </a>
           </text>
         <text> on &#9733; Trustpilot </text>

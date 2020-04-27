@@ -103,14 +103,22 @@ text2 {
     white-space: break-spaces;
 }
 
-a {
-    color: black;
-    text-decoration: underline; 
-}
 
-text_w {
+text_w, #text_w {
     color: white;
     font-size: 14px;
+    white-space: break-spaces;
+    text-align: left;
+}
+#title_w{
+    color: white;
+    font-size: 20px;
+    white-space: break-spaces;
+    text-align: left;
+}
+#header_w{
+    color: white;
+    font-size: 40px;
     white-space: break-spaces;
 }
 
@@ -133,10 +141,10 @@ footer {
     position: absolute;
 }
 
+
 footer > img {
     width: 253px;
     height: 72px;
-    position: relative;
-    z-index: 100;
-    float: left;
+    position: absolute;
 }
+/* float: left; */
