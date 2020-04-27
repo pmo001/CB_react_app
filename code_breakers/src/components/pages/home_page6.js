@@ -20,7 +20,8 @@ function Homepage6() {
           
         <img id="padding2" src={companies} alt="company offers"/>
 
-        <p1 id="padding2"> {"\n"} And Many More..... </p1>
+        <p1> {"\n"} And Many More..... {"\n"}</p1>
+        <h1></h1>
 
       </center>
 

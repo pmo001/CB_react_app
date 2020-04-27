@@ -9,11 +9,11 @@ function Homepage6() {
     //wrapper/container html5 element
     <div>
 
-      <h1>
+      <h2>
         <center>
           See What Others Are Saying About CodeBreakers
         </center>
-      </h1>
+      </h2>
       
       <center>
           
