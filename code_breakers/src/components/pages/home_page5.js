@@ -1,19 +1,26 @@
 import React from 'react';
 //must import this js to App.js
 
-
+import quote_button from '../../images/quote_button.png';
 
 //       v must begin w/ capital letter
 function Homepage5() {
   return (
     //wrapper/container html5 element
     <div>
+    
+      <center>
+      <a href="quote">
+        <img src={quote_button} alt="get a quote button"/>
+      </a>
+      </center>
 
-      <h2 id="small_margin">
+      <h1 id="small_margin">
         <center>
+        {"\n"}
           How We Work
         </center>
-      </h2>
+      </h1>
       
       <center>
           
@@ -63,17 +70,12 @@ function Homepage5() {
             Personalized Mentorship {"\n"}
             </text>
             
-            
             <p2>
               Preparing for interviews is difficult, especially on your own. To keep you on track, we provide weekly check-ins, personal Q&A's sessions, unlimited office hours, and mock interviews with our mentors (all are from FAANG companies).
             </p2>
           </div>
         </div>
-
       </center>
-
-
-
     </div>
   );
 }
