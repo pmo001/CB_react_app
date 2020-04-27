@@ -99,6 +99,21 @@ h1, p1 {
     white-space: break-spaces;
 }
 
+text2 {
+    white-space: break-spaces;
+}
+
+a {
+    color: black;
+    text-decoration: underline; 
+}
+
+text_w {
+    color: white;
+    font-size: 14px;
+    white-space: break-spaces;
+}
+
 #small_margin {
     margin-top: 25px;
     margin-bottom: 25px;

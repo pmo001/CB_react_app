@@ -20,9 +20,9 @@ function Footer() {
           <img src={logo} alt="company logo"/>
         </a>
 
-      <text>
-        copyright 2019 All rights reserved.
-      </text>
+      <text_w>
+        &copy; 2019 All rights reserved.
+      </text_w>
 
     </footer>
   );

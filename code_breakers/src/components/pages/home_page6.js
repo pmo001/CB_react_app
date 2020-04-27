@@ -1,6 +1,7 @@
 import React from 'react';
 //must import this js to App.js
 
+import companies from '../../images/companies.png';
 
 
 //       v must begin w/ capital letter
@@ -17,7 +18,9 @@ function Homepage6() {
       
       <center>
           
-        todo: logos
+        <img id="padding2" src={companies} alt="company offers"/>
+
+        <p1 id="padding2"> {"\n"} And Many More..... </p1>
 
       </center>
 

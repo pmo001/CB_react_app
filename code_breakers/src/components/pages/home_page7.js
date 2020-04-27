@@ -1,7 +1,7 @@
 import React from 'react';
 //must import this js to App.js
 
-
+import rating from '../../images/rating.png'
 
 //       v must begin w/ capital letter
 function Homepage6() {
@@ -17,6 +17,15 @@ function Homepage6() {
       
       <center>
           
+        <img src={rating} alt="star rating" />
+        
+        <text2> {"\n"} Based on </text2>
+        <text> 
+          <a href="reviews">
+            21 reviews 
+          </a>
+          </text>
+        <text> on &#9733; Trustpilot </text>
         
 
       </center>

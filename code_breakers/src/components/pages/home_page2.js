@@ -17,7 +17,7 @@ function Homepage2() {
       </h1>
       
       <center>
-        <img src={accel_img} alt="accelerate your career summary picture" />
+        <img src={accel_img} alt="accelerate your career summary" />
         
         <a href="consultation_page">
             <img id="padding2" src={schedule_button} alt="schedule button 2" />
