@@ -7,6 +7,7 @@ import React from 'react';
 function Homepage4() {
   return (
     //wrapper/container html5 element
+    //todo: dropdown menu
     <div>
 
       <h1>
@@ -14,15 +15,6 @@ function Homepage4() {
           Start, Study and Succeed
         </center>
       </h1>
-      
-      <center>
-          
-        todo: dropdown menu here
-
-      </center>
-
-
-
     </div>
   );
 }
